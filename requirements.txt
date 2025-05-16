@@ -1,0 +1,21 @@
+# Core dependencies
+fastapi
+uvicorn
+python-dotenv
+
+# Data handling
+pydantic
+tqdm
+
+# Embedding + search
+faiss-cpu
+sentence-transformers
+
+# Optional: OpenAI integration (only if using GPT API)
+openai
+
+# JSON parsing + formatting
+orjson
+
+#chatbot
+google-generativeai
